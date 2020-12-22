@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import pak1.Dayy1;
 
 
-
+@Test
 public class Dayy2 {
 	WebDriver Driver;
 

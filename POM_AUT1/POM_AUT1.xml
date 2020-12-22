@@ -4,6 +4,7 @@
   <test thread-count="2" name="Test">
     <classes>
        <class name="pak2.Dayy2"/>
+       <class name="pak1.Dayy1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
