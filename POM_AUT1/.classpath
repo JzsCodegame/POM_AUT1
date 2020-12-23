@@ -13,11 +13,6 @@
 	<classpathentry kind="lib" path="C:/Users/jzo_0/Desktop/libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jzo_0/Desktop/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jzo_0/Desktop/libs/okio-1.14.1.jar"/>
-	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -29,6 +24,11 @@
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
