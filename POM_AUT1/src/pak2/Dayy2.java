@@ -25,7 +25,7 @@ public class Dayy2 {
 
 public void Setup () {
 
-    System.setProperty("webdriver.chrome.driver","C:\\Users\\jzo_0\\eclipse-workspace1\\POM_AUT_Github_maven\\chromedriver.exe");
+    System.setProperty("webdriver.chrome.driver","C:\\Users\\jzo_0\\git\\repository3\\POM_AUT1\\chromedriver.exe");
 
     Driver = new ChromeDriver();
 
@@ -41,7 +41,7 @@ public void Setup () {
 
 
 
-@Test
+
 
 public void OpenSignInPage () {
 
